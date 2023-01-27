@@ -1,0 +1,197 @@
+.info {
+  color: rgb(37, 187, 137);
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: none;
+}
+.info2 {
+  color: rgb(37, 187, 137);
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: none;
+  display: flex;
+  justify-content: end;
+  margin-right: 3vw;
+  margin-top: 1vw;
+}
+.login {
+  color: rgb(37, 187, 137);
+  font-size: 30px;
+  font-weight: bold;
+  border: solid white 1px;
+  margin-left: 1vw;
+  text-decoration: none;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: end;
+  margin-right: 3vw;
+}
+.logo {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  height: 100%;
+}
+.logo2 {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  height: 100%;
+  margin-top: 6vw;
+}
+.input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2vw;
+}
+.web {
+  height: 1.5vw;
+  width: 14vw;
+  border-radius: 15px;
+  border: solid rgb(153, 153, 153) 1px;
+  box-shadow: 0px 3px 3px rgb(194, 194, 194);
+}
+.web2 {
+  height: 1.5vw;
+  width: 14vw;
+  border-radius: 15px;
+  border: solid rgb(153, 153, 153) 1px;
+  box-shadow: 0px 3px 3px rgb(194, 194, 194);
+}
+.body {
+  margin-top: 12vw;
+}
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 20vw;
+}
+.footer2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 7vw;
+}
+.boginosgoh {
+  height: 2vw;
+  width: 9vw;
+  background-color: rgb(37, 187, 137);
+  border-radius: 40px;
+  color: azure;
+  font-size: 30px;
+  font-weight: bold;
+  border: solid white 1px;
+  margin-left: 1vw;
+}
+.nevtreh {
+  height: 5vw;
+  width: 15vw;
+  background-color: rgb(37, 187, 137);
+  border-radius: 40px;
+  color: azure;
+  font-size: 30px;
+  font-weight: bold;
+  border: solid white 1px;
+  margin-left: 1vw;
+}
+.nevtreh2 {
+  border-radius: 40px;
+  color: rgb(37, 187, 137);
+  font-size: 50px;
+  font-weight: bold;
+  border: solid white 1px;
+  margin-left: 1vw;
+  display: flex;
+  justify-content: center;
+  margin-top: 1vw;
+}
+.nevtreh3 {
+  border-radius: 40px;
+  color: rgb(37, 187, 137);
+  font-size: 50px;
+  font-weight: bold;
+  border: solid white 1px;
+  margin-left: 1vw;
+  display: flex;
+  justify-content: center;
+  margin-top: 5vw;
+}
+.nevtrelt {
+  display:flex;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  margin-top: 2vw;
+}
+.nevtrelt10 {
+  display:flex;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  margin-top: 1vw;
+}
+.nevtrelt2 {
+  display:flex;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  margin-top: 2vw;
+}
+.nevtrelt3 {
+  display: flex;
+  margin-left: 43%;
+  margin-top: 2vw;
+}
+.password {
+  color: black;
+  margin-left: 2.5vw;
+} 
+.check {
+  color: rgb(37, 187, 137);
+}
+input[type=checkbox] {
+  accent-color:  rgb(37, 187, 137);
+  outline: 2px solid rgb(37, 187, 137);
+}
+.oroh {
+  width: 15vw;
+  height: 2vw;
+  background-color: rgb(37, 187, 137);
+  border-radius: 5vw;
+  border: solid white 1px;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: baseline;
+  margin-left: 42.5vw;
+  margin-top: 3vw;
+}
+.text {
+  width: 13vw;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-left: 44vw;
+  margin-top: 3vw;
+}
+.sign {
+  display: flex;
+  justify-content: center;
+  margin-top: 2vw;
+  color: rgb(37, 187, 137);
+  text-decoration: none;
+}
+.header {
+  margin-top: 3vw;
+}
